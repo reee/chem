@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>视频 on My New Hugo Site</title>
+    <link>https://www.dianyi.org/tags/%E8%A7%86%E9%A2%91/</link>
+    <description>Recent content in 视频 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 17 Sep 2015 17:57:57 +0000</lastBuildDate><atom:link href="https://www.dianyi.org/tags/%E8%A7%86%E9%A2%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>一些化学相关视频</title>
+      <link>https://www.dianyi.org/posts/some-chemistry-related-video/</link>
+      <pubDate>Thu, 17 Sep 2015 17:57:57 +0000</pubDate>
+      
+      <guid>https://www.dianyi.org/posts/some-chemistry-related-video/</guid>
+      <description>这里收集了一些化学相关的视频，其中包括：
+ 北京电影学院学生 杨帆所制作的《疯狂化学》系列视频。 各种版本的元素周期表之歌。 中国科学技术大学主导的《美丽化学》视频集锦。 其他相关视频。  对于提升学生学科兴趣可能有一定帮助。 下载地址：</description>
+    </item>
+    
+  </channel>
+</rss>

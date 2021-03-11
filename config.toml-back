@@ -1,0 +1,4 @@
+baseURL = "https://www.dianyi.org/"
+languageCode = "zh-CN"
+title = "杨莉名师工作室"
+theme = "eureka"
