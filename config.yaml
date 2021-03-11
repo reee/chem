@@ -1,6 +1,8 @@
 baseURL: /
 title: 杨莉名师工作室
 
+publishDir: docs
+
 # Comment when installing using Hugo Modules
 theme: eureka
 # Uncomment when installing using Hugo Modules
